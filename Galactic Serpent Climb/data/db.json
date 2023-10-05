@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "groupName": "TEAM1",
+      "numOfPlayer": "2",
+      "member": [
+        {
+          "player": 1,
+          "name": "FILM",
+          "color": "#ff40ff"
+        },
+        {
+          "player": 2,
+          "name": "TAN",
+          "color": "#0433ff"
+        },
+        {
+          "player": 3,
+          "name": "",
+          "color": ""
+        },
+        {
+          "player": 4,
+          "name": "",
+          "color": ""
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
